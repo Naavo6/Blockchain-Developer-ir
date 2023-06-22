@@ -55,5 +55,8 @@
 - بخش 11 - [ساخت مقیاس پذیر](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/11-%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D9%82%DB%8C%D8%A7%D8%B3%20%D9%BE%D8%B0%DB%8C%D8%B1) (Building for Scale)
 - بخش 12 - [همکاری و دانش افزایی(جمع اساتید)](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/12-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C%20%D9%88%20%D8%AF%D8%A7%D9%86%D8%B4%20%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%DB%8C(%D8%AC%D9%85%D8%B9%20%D8%A7%D8%B3%D8%A7%D8%AA%DB%8C%D8%AF)) (Keep Learning)
 
+با زدن بر روی هر بخش به فولدر آن در این مخزن منتقل می شویم که شامل زیربخش های هر بخش و لینک منابع هر یک از آنها خواهد بود. این حالت برای فایل اصلی ([RoadMap@Soliditylang_fa](https://github.com/Naavo6/Blockchain-Developer-ir/blob/main/RoadMap%40Soliditylang_fa.pdf)) نیز صادق است و با زدن بر روی هر بخش یا زیربخش ها در این فایل به صفحه مربوط به آن و منابع آن دسترسی خواهیم داشت.
+
  
 # نحوه انجام
+
