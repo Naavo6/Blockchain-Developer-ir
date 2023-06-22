@@ -42,7 +42,18 @@
 این باعث خواهد شد ما علاوه بر داشتن یک شمای کلی و فایل اصلی [RoadMap@Soliditylang_fa](https://github.com/Naavo6/Blockchain-Developer-ir/blob/main/RoadMap%40Soliditylang_fa.pdf) نقشه راه، 12 بخش اصلی این نقشه راه را نیز به صورت مجزا داشته باشیم تا هر فردی که می خواهد به صورت تخصصی یا منحصرا در مورد هر یک از این بخش ها فعالیت کند بتواند به آن بخش مراجعه کرده و با تمرکز به اهداف همان بخش از منابع و امکانات آن بهره ببرد (البته زیربخش ها نیز در صورت وجود نیاز می توانند از بخش خود شاخه بگیرند و بصورت مجزاتر و حرفه ای تر به آن مفهوم یا تخصص بپردازند).
 بخش های اصلی به ترتیب اینها می باشند:
 
-- بخش 1 - [دانش پایه بلاکچین](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/1-%D8%AF%D8%A7%D9%86%D8%B4-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A8%D9%84%D8%A7%DA%A9%DA%86%DB%8C%D9%86) (Basic Blockchain Knowledge)
+- بخش 1 - [دانش پایه بلاکچین](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/1-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA%20%D8%A7%D9%88%D9%84%DB%8C%D9%87%20%D8%A8%D9%84%D8%A7%DA%A9%DA%86%DB%8C%D9%86) (Basic Blockchain Knowledge)
+- بخش 2 - [اطلاعات تکمیلی بلاکچین](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/2-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA%20%D8%AA%DA%A9%D9%85%DB%8C%D9%84%DB%8C%20%D8%A8%D9%84%D8%A7%DA%A9%DA%86%DB%8C%D9%86) (General Blockchain Knowledge)
+- بخش 3 - [اوراکل ها](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/3-%D8%A7%D9%88%D8%B1%D8%A7%DA%A9%D9%84%20%D9%87%D8%A7) (Oracles)
+- بخش 4 - [قرارداد های هوشمند](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/4-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%87%D8%A7%DB%8C%20%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF) (Smart Contracts)
+- بخش 5 - [فریم ورکهای قرارداد هوشمند](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/5-%D9%81%D8%B1%DB%8C%D9%85%20%D9%88%D8%B1%DA%A9%D9%87%D8%A7%DB%8C%20%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF) (Smart Contract Frameworks)
+- بخش 6 - [امنیت](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/6-%D8%A7%D9%85%D9%86%DB%8C%D8%AA) (Security)
+- بخش 7 - [پلتفرم های مدیریت](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/7-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA) (Management Platforms)
+- بخش 8 - [سیستم های کنترل ورژن](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/8-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%DA%A9%D9%86%D8%AA%D8%B1%D9%84%20%D9%88%D8%B1%DA%98%D9%86) (Version Control Systems)
+- بخش 9 - [سرویس های میزبانی از مخزن](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/9-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%87%D8%A7%DB%8C%20%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C%20%D8%A7%D8%B2%20%D9%85%D8%AE%D8%B2%D9%86) (Repo Hosting Services)
+- بخش 10 - [ساخت دی اپ ها](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/10-%D8%B3%D8%A7%D8%AE%D8%AA%20%D8%AF%DB%8C%20%D8%A7%D9%BE%20%D9%87%D8%A7) (dApps - Decentralized Applications)
+- بخش 11 - [ساخت مقیاس پذیر](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/11-%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%85%D9%82%DB%8C%D8%A7%D8%B3%20%D9%BE%D8%B0%DB%8C%D8%B1) (Building for Scale)
+- بخش 12 - [همکاری و دانش افزایی(جمع اساتید)](https://github.com/Naavo6/Blockchain-Developer-ir/tree/main/12-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C%20%D9%88%20%D8%AF%D8%A7%D9%86%D8%B4%20%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%DB%8C(%D8%AC%D9%85%D8%B9%20%D8%A7%D8%B3%D8%A7%D8%AA%DB%8C%D8%AF)) (Keep Learning)
 
  
 # نحوه انجام
